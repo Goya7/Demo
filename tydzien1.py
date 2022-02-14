@@ -129,11 +129,14 @@
 
 # print=input('podaj liczbe pierwsza')
 # print=input('podaj liczbe druga')
-#
 # name = input("Proszę wpisać swoje imię.")
-# Wpisz swoją odpowiedź tutaj.
-# tutajtutaj
+# # Wpisz swoją odpowiedź tutaj.
+#
 # if len(name) > 0:
 #     print(name)
 # else:
 #     pass
+
+string="Python"
+for litera in string:
+    print('litera:', litera)
